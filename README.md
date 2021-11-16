@@ -1,6 +1,6 @@
 # clouds2mmdb
 
-Grab IPv4 ranges for:
+This project grabs IPv4 ranges for:
 
 - AWS
 - Azure
@@ -9,7 +9,7 @@ Grab IPv4 ranges for:
 - Oracle Cloud
 - Rackspace (see `clouds2csv.r`)
 
-And create a special MaxMind database file with the `isp` field populated with the provider.
+and creates a special MaxMind database file with the `isp` field populated with the provider.
 
 PRs welcome for other cloud providers.
 
